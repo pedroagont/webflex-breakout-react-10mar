@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+}
+
+.title-center {
+  text-align: center;
+}
+
+.card {
+  border: 1px solid black;
+  border-radius: 20px;
+  padding: 1em;
+  margin: 1em auto;
+  background: lemonchiffon;
+  width: 400px;
+}
+
+.card-title {
+  color: red;
+}
+
+.card-link {
+  color: forestgreen;
+}
+
+.loading {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.loading img {
+  width: 100%;
+}
